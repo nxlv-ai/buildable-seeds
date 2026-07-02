@@ -78,3 +78,9 @@ private systems or bypass access controls.
 
 Buildable Report is published by NXLV. Not an official Lovable product,
 certification, endorsement or audit.
+
+## Authorship and maintenance
+
+This project was created by [Lucio Amorim](https://linkedin.com/in/lucioamorim).
+
+When reusing, redistributing, or citing this work, keep the attribution credits and include a link to this repository.
